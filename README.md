@@ -58,3 +58,19 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Felipecardosovargas/LeetCode/tree/master/0149-max-points-on-a-line) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Felipecardosovargas/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Felipecardosovargas/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Felipecardosovargas/LeetCode/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
