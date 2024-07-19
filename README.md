@@ -12,8 +12,9 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 ---
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/felipecardosovargas?theme=dark&font=Patua%20One" alt="Leetcode Stats" style="display: block; margin: 0 auto;">
+  <img src="https://leetcard.jacoblin.cool/Felipecardosovargas?theme=dark&font=Arvo&ext=activity" alt="Leetcode Stats" style="display: block; margin: 0 auto;">
 </p>
+
 
 ## Technologies and Tools:
 
