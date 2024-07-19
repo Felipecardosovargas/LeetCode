@@ -74,6 +74,7 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Felipecardosovargas/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Felipecardosovargas/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Felipecardosovargas/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Felipecardosovargas/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,4 +108,8 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Felipecardosovargas/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Felipecardosovargas/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
