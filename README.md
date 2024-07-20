@@ -83,6 +83,7 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Felipecardosovargas/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Felipecardosovargas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Felipecardosovargas/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
@@ -111,5 +112,10 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Felipecardosovargas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Felipecardosovargas/LeetCode/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Felipecardosovargas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
