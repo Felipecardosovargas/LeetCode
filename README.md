@@ -70,6 +70,7 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Felipecardosovargas/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Felipecardosovargas/LeetCode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
