@@ -113,6 +113,7 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Felipecardosovargas/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Felipecardosovargas/LeetCode/tree/master/0011-container-with-most-water) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Felipecardosovargas/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +136,8 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Felipecardosovargas/LeetCode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/Felipecardosovargas/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 <!---LeetCode Topics End-->
