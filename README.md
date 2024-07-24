@@ -102,6 +102,7 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Felipecardosovargas/LeetCode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/Felipecardosovargas/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/Felipecardosovargas/LeetCode/tree/master/0584-find-customer-referee) |
 | [0608-tree-node](https://github.com/Felipecardosovargas/LeetCode/tree/master/0608-tree-node) |
