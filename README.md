@@ -114,6 +114,7 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 | [0004-median-of-two-sorted-arrays](https://github.com/Felipecardosovargas/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Felipecardosovargas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Felipecardosovargas/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Felipecardosovargas/LeetCode/tree/master/0018-4sum) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Felipecardosovargas/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 ## Binary Search
 |  |
@@ -134,6 +135,7 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 | [0005-longest-palindromic-substring](https://github.com/Felipecardosovargas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Felipecardosovargas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Felipecardosovargas/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Felipecardosovargas/LeetCode/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -142,5 +144,6 @@ I've noticed significant improvements in my knowledge and skills by practicing o
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Felipecardosovargas/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Felipecardosovargas/LeetCode/tree/master/0018-4sum) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Felipecardosovargas/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 <!---LeetCode Topics End-->
